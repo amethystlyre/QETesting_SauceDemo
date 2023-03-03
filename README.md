@@ -3,7 +3,7 @@ QE Prepwork
 
 Project created in Visual Studio and automates the purchasing of one product from start till checkout until your order is confirmed.
 
-Test code written in C#.
+Test code written in C# and located in Program.cs file.
 UI test uses Selenium Webdriver for Chrome and Nunit test framework.
 
 Install the following in Nuget solution manager:
@@ -13,5 +13,5 @@ Install the following in Nuget solution manager:
 * NUnit.ConsoleRunner v3.16.3
 
 
-Prerequisite to run test: Chrome Browser.
-Test located in Program.cs file.
+Other prerequisites to run test: Chrome Browser.
+
