@@ -14,4 +14,5 @@ Install the following in Nuget solution manager:
 
 
 Other prerequisites to run test: Chrome Browser.
+
 Demo video of test running: https://drive.google.com/file/d/1vV3SJ_M5_hNLDpTWzu6I7GQiY5HP4kHc/view?usp=sharing
