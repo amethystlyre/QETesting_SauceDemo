@@ -1,4 +1,4 @@
-# QETesting_SauceDemo
+# QETesting SauceDemo
 QE Prepwork
 
 Project created in Visual Studio and automates the purchasing of one product from start till checkout until your order is confirmed.
@@ -14,4 +14,4 @@ Install the following in Nuget solution manager:
 
 
 Other prerequisites to run test: Chrome Browser.
-
+Demo video of test running: https://drive.google.com/file/d/1vV3SJ_M5_hNLDpTWzu6I7GQiY5HP4kHc/view?usp=sharing
